@@ -27,8 +27,8 @@
     "adx_app_open":"/6499/example/app-open",
     "adx_banner":"/6499/example/banner",
     "adx_interstitial":"/6499/example/interstitial",
-    "adx_native":"/6499/example/native-video",
-    "adx_native_banner":"/6499/example/native-video",
+    "adx_native":"/6499/example/native",
+    "adx_native_banner":"/6499/example/native",
     "adx_reward_interstitial":"/21775744923/example/rewarded_interstitial",
     "adx_reward_video":"/6499/example/rewarded"
   },
