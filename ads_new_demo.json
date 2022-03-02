@@ -2,7 +2,7 @@
   "app_pname":"ads.demo.fb.google",
   "app_redirect_link":"com.cricket.live.score.cricketliveline.livecricketscore",
   "app_status":false,
-  "app_vop_click":false,
+  "app_vop_click":true,
   "app_vop_color":"#61616A",
   "app_vop_flag":true,
   "admob":{
