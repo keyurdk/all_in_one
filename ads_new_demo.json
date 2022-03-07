@@ -19,7 +19,7 @@
     "ads_method":"pre_load",
     "ads_onback":false,
     "ads_other":"qureka",
-    "ads_priority":"google_ads",
+    "ads_priority":"agoogle_ads",
     "ads_time":30,
     "ads_type":"Click"
   },
