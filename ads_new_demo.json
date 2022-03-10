@@ -17,7 +17,7 @@
   "advertisement":{
     "ads_click":0,
     "ads_method":"pre_load",
-    "ads_onback":false,
+    "ads_onback":true,
     "ads_other":"qureka",
     "ads_priority":"al_ads",
     "ads_time":30,
