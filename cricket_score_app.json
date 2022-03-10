@@ -31,5 +31,10 @@
     "violation_flag":"false",
     "base_url": "http://lotus.cricketfeed.co.in/api/values/",
     "image_url": "http://cricnet.co.in/ManagePlaying/PlayerImage/",
-    "team_url": "http://cricnet.co.in/ManagePlaying/TeamImages/"
+    "team_url": "http://cricnet.co.in/ManagePlaying/TeamImages/",
+    "tips1": "https://staticg.sportskeeda.com/editor/2021/01/0773c-16103844516648-800.jpg",
+    "tips2": "https://firstsportz.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-18-at-3.19.34-PM-608x1024.jpeg",
+    "tips3": "https://staticg.sportskeeda.com/editor/2020/11/b6b71-16064692107405-800.jpg",
+    "tips4": "https://firstsportz.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-3.19.43-PM-1-607x1024.jpeg",
+    "tips5": "https://elegantknock.com/wp-content/uploads/2019/02/ind-vs-nz-dream11.png"
 }
