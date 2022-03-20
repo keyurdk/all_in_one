@@ -15,7 +15,7 @@
     "admob_reward_video":"ca-app-pub-3940256099942544/5354046379"
   },
   "advertisement":{
-    "ads_click":500,
+    "ads_click":3,
     "ads_method":"pre_load",
     "ads_onback":true,
     "ads_other":"aqureka",
