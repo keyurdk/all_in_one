@@ -16,7 +16,7 @@
   },
   "advertisement":{
     "ads_click":3,
-    "ads_method":"pre_load",
+    "ads_method":"apre_load",
     "ads_onback":true,
     "ads_other":"aqureka",
     "ads_priority":"al_ads",
