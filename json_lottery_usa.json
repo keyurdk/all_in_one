@@ -1,0 +1,54 @@
+{
+  "Lottery": [
+    {
+      "l_name": "Power Ball",
+      "l_image": "https://assets.flagfamily.com/web/images/articles/powerball-pp-horizontal-flat-color-1620427320.jpg?7gNv2WYMH.VU73_ptnWcNR85UGkqUfJ_",
+      "l_url": "https://www.powerball.com/games/home"
+    },
+    {
+      "l_name": "Lottoland",
+      "l_image": "https://lotteryguru.com/pict/96613/lottoland-logo-2x-png",
+      "l_url": "https://www.lottoland.com/br"
+    },
+    {
+      "l_name": "TheLotter",
+      "l_image": "https://lotteryguru.com/pict/96612/the-lotter-logo-2x-png",
+      "l_url": "https://www.thelotter.org/?itemid=1&chan=15_IN_1649629&tl_affid=12436"
+    },
+    {
+      "l_name": "WinTrillions",
+      "l_image": "https://lotteryguru.com/pict/97377/WinTrillions_logo_-2x-png",
+      "l_url": "https://www.wintrillions.com/?account=ltgr&track=pt15"
+    },
+    {
+      "l_name": "PlayHugeLottos",
+      "l_image": "https://lotteryguru.com/pict/96615/playhugelottos-logo-2x-png",
+      "l_url": "https://lotteryguru.com/exit?v=1&requestedCountryId=102&originalUrl=http://lotteryguru.com/best-online-lottery-sites&type=agentWebsite&pageTypeId=BEST_ONLINE_LOTTERY_SITES&visitorId=1649629&id=3&component=agent"
+    },
+    {
+      "l_name": "Lotto Agent",
+      "l_image": "https://lotteryguru.com/pict/96616/lottoagent-logo-2x-png",
+      "l_url": "https://www.lottoevents.com/?l=aW1pa5OZm6jXkqTIncfX&tid1=15_IN_1649629&tid2=15&tid3=IN&tid4=1649629"
+    },
+    {
+      "l_name": "LottoSmile",
+      "l_image": "https://www.lotterycritic.com/wp-content/uploads/2020/08/lotto-smile-logo.png",
+      "l_url": "https://www.lottosmile.in/?tl_affid=12204"
+    },
+    {
+      "l_name": "LottoGo",
+      "l_image": "https://www.lotterycritic.com/wp-content/uploads/2020/08/lottogo-logo-sm.png",
+      "l_url": "https://www.lottogo.com/en/campaigns/syndicates/emsynmatchdeposit50sub200804UKMTRTMTREACTYNCCY2?r=71014003&o=2026&a=75842&c=9490&tpPlayerId=&m=75842"
+    },
+    {
+      "l_name": "BuyLottoOnline",
+      "l_image": "https://www.lotterycritic.com/wp-content/uploads/2020/08/buy-lottom-logo.png",
+      "l_url": "https://www.buylottoonline.com/promo/about-deals?lot_id=2&account=LotteryCritic"
+    },
+    {
+      "l_name": "Mater Prize Home",
+      "l_image": "https://www.lotterycritic.com/wp-content/uploads/2020/08/mater-prize-home-logo.png",
+      "l_url": "https://www.materlotteries.com.au/buy-tickets"
+    }
+  ]
+}
