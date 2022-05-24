@@ -1,0 +1,59 @@
+{
+    "app_pname":"free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader",
+    "app_redirect_link":"com.cricket.live.score.cricketliveline.livecricketscore",
+    "app_status":false,
+    "app_vop_click":false,
+    "app_vop_color":"#FF6666",
+    "app_vop_flag":false,
+    "admob":{
+        "admob_app_open":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_appopen",
+        "admob_banner":"xxxx",
+        "admob_interstitial":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_interstital",
+        "admob_native":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_native",
+        "admob_native_banner":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_native",
+        "admob_reward_interstitial":"xxxx",
+        "admob_reward_video":"xxxx"
+    },
+    "advertisement":{
+        "ads_click":3,
+        "ads_method":"click_load",
+        "ads_onback":false,
+        "ads_other":"apps",
+        "ads_priority":"google_ads"
+    },
+    "adx":{
+        "adx_app_open":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_appopen",
+        "adx_banner":"xxxx",
+        "adx_interstitial":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_interstital",
+        "adx_native":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_native",
+        "adx_native_banner":"xx/22690292830/free.video.downloader.hdvideodownloader.storysaver.statussaver.allvideodownloader_native",
+        "adx_reward_interstitial":"xxxx",
+        "adx_reward_video":"xxxx"
+    },
+    "apps":{
+        "apps_banner":"https://play-lh.googleusercontent.com/hjGDdYU1kemR2I5CzUx5TwdOJW8F4ONflFfSK9v4F-SK2wYs4EU52snMEQvuOLUsKB4",
+        "apps_body":"One of the fastest live cricket score app with live line ball by ball live score",
+        "apps_headline":"Live Cricket Score Line",
+        "apps_icon":"https://play-lh.googleusercontent.com/NPfGCmbKLvMnopFCNZ2jxlmNgYvEhw8pxvLuVoHacVO3Q_cvbVo45_zao-dg-AoiuKk=s180-rw",
+        "apps_link":"https://play.google.com/store/apps/details?id=com.cricket.live.score.cricketliveline.livecricketscore"
+    },
+    "qureka":{
+        "qu_banner_link":"https://tetapose.com/tnart.in/Banner/",
+        "qu_banner_size":8,
+        "qu_icon_link":"https://tetapose.com/tnart.in/Icon/",
+        "qu_icon_size":22,
+        "qu_link":"https://822.win.qureka.com/",
+        "qu_native_banner_link":"https://tetapose.com/tnart.in/NativeBanner/",
+        "qu_native_banner_size":14,
+        "qu_native_link":"https://tetapose.com/tnart.in/Native/",
+        "qu_native_size":28
+    },
+    "privacy":{
+		"privacy_link":"Privacy Policy Link"
+	},
+    "app_lovin":{
+        "app_lovin_banner":"YOUR_AD_UNIT_ID",
+        "app_lovin_interstitial":"YOUR_AD_UNIT_ID",
+        "app_lovin_native":"YOUR_AD_UNIT_ID"
+    }
+}
