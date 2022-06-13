@@ -20,7 +20,7 @@
     "ads_onback":true,
     "ads_other":"aqureka",
     "ads_priority":"al_ads",
-    "qureka_flag":true,
+    "qureka_flag":false,
     "ads_btn_txt":"Open"
   },
   "adx":{
