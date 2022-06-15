@@ -1,0 +1,107 @@
+[
+    {
+      "pet_name": "Agent Hop",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/950c746d888def1e16461f555a783b4fpng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/4eeceb3526ca6d5a84b42830d71567c1png",
+      "pet_skill_title": "Bouncing Bonus",
+      "pet_skill_desc": "Gain EP every time the Safe Zone shirnks"
+    },
+    {
+      "pet_name": "Sensei Tig",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/4d324b2f28d064756fd51eef49dc8309png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/026a1e48b2e34892b1283a4ba558fe8fpng",
+      "pet_skill_title": "Nimble Ninja ",
+      "pet_skill_desc": "Reduces the duration of enemies' man-marking skills."
+    },
+    {
+      "pet_name": "Dr. Beanie",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/0c847a86dff3d2aa525662faeb489940png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/131c855571c2c05a07acb1b5299f0550png",
+      "pet_skill_title": "Dashy Duckwalk",
+      "pet_skill_desc": "Move quicker when you walk like Dr.Beanine."
+    },
+    {
+      "pet_name": "Moony",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/9bbf1201f65f4a4de2209db7be59b90dpng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/c7d5e19cf0bf618d1d2d3890ac2f8facpng",
+      "pet_skill_title": "Paranormal Protection",
+      "pet_skill_desc": "Protection during interaction countdown"
+    },
+    {
+      "pet_name": "Dreki",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/102daf3418f6dcfa53a9a037d944289epng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/317d3b855b52a77479c2ce2f59ebe9b0png",
+      "pet_skill_title": "Dragon Glare",
+      "pet_skill_desc": "Opponents recovering behind a wall will be exposed."
+    },
+    {
+      "pet_name": "Beaston",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e4096401f9da33edcbcd41fc2c05573apng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e540f530bc127102efefae27a3654ffdpng",
+      "pet_skill_title": "Helping Hand",
+      "pet_skill_desc": "With Beaston by your side, you gained greater strength in your throws!"
+    },
+    {
+      "pet_name": "Rockie",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/afad64441da3c432f8fa9062cc692543png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/d0dd9e1badb60fa38fdc5a3cbbc5e6b8png",
+      "pet_skill_title": "Stay Chill",
+      "pet_skill_desc": "Reduce cooldown time of active skills for its owner."
+    },
+    {
+      "pet_name": "Mr.Waggor",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/12e415f5847c54074e4ed1f04626b8b0png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/832f64a38907d4ef9399dc4aeca91f7apng",
+      "pet_skill_title": "Smooth Gloo",
+      "pet_skill_desc": "Produces a Gloo Wall grenade when the owner seems to be needing one."
+    },
+    {
+      "pet_name": "Falco",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/df1f4d8a8c279d0fe6287077b21bcd30png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/b0ce5770d446ad0fdc97a58f4d9a8e37png",
+      "pet_skill_title": "Skyline Spree",
+      "pet_skill_desc": "Glide further after skydive. Faster diving speed after parachute opens (applies to entire team)"
+    },
+    {
+      "pet_name": "Ottero",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/1d352242d637bd31af7e1edc17d60cccpng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/9cf0e2dbca8a1b82a87e40ef6f6ce48epng",
+      "pet_skill_title": "Double Blubber",
+      "pet_skill_desc": "When using Treatment Pistol or Med Kit, the receiver will recover some EP as well"
+    },
+    {
+      "pet_name": "Robo",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/9d7a484a124895513b71ecebceecf91dpng",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/86f87cd06dc73326d8ae7bcc0ffb8aefpng",
+      "pet_skill_title": "Wall Enforcement",
+      "pet_skill_desc": "Adds a shield to the gloo wall."
+    },
+    {
+      "pet_name": "Spirit Fox",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/08d094072945424d86145712478feae8png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/760c54852d7c5ebf645d9d2690ba6b3bpng",
+      "pet_skill_title": "Well Fed",
+      "pet_skill_desc": "Restore extra HP when using a Med Kit"
+    },
+    {
+      "pet_name": "Shiba",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/dc7315961ab57e1d3b7ef3cfcda58551png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/b110aa07225b92d414949bd01eb09bc2png",
+      "pet_skill_title": "Mushroom Sense",
+      "pet_skill_desc": "Shiba will find the surrounding mushrooms and mark them on the mini map."
+    },
+    {
+      "pet_name": "Detective Panda",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/0085638fc3696e8ff354492a28eb4e76png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/151db82ab42080b2be9af506eb10d996png",
+      "pet_skill_title": "Panda's Blessing",
+      "pet_skill_desc": "The Panda has all kinds of surprises!"
+    },
+    {
+      "pet_name": "Night Panther",
+      "pet_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/63c1b9ae64cea129455b4807523109f0png",
+      "pet_skill_image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e39b8f5219ab69a4ddf7dcb5754c3908png",
+      "pet_skill_title": "Weight Training",
+      "pet_skill_desc": "Evey time the panther does a weight training, the owner can get more inventory space in-game."
+    }
+  ]
