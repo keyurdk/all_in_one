@@ -1,0 +1,18 @@
+{
+	"splashTime": 4000,
+	"priority": 0,
+	"isAdmob": true,
+	"isFb": false,
+	"adTime": 15,
+	"admobAppId": "ca-app-pub-3940256099942544~3347511713",
+	"admobAppOpenId": "/22387492205,22479057493/com.beauty.camera.fatch.clean.up.AppOpen0.1626090037",
+	"admobBannerId": "/22387492205,22479057493/com.beauty.camera.fatch.clean.up.Banner0.1626089952",
+	"admobIntId": "/22387492205,22479057493/com.beauty.camera.fatch.clean.up.Interstitial0.1626090018",
+	"admobNativeId": "/22387492205,22479057493/com.beauty.camera.fatch.clean.up.Native0.1626089987",
+	"admobSmallNativeId": "/22387492205,22479057493/com.beauty.camera.fatch.clean.up.Native0.1626089987",
+	"fbBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"fbIntId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"fbNativeId": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
+	"qLink": "https://1028.win.qureka.com",
+	"qEnabled": false
+}
