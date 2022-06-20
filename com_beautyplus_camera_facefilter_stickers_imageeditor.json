@@ -1,5 +1,5 @@
 {
-	"splashTime": 4000,
+	"splashTime": 1000,
 	"priority": 0,
 	"isAdmob": true,
 	"isFb": false,
