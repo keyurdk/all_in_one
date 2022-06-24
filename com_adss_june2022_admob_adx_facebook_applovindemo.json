@@ -2,6 +2,7 @@
   "APP_PACKAGE": "ads.demo.fb.google",
   "IS_APP_LIVE": true,
   "APP_REDIRECT_LINK": "com.cricket.live.score.cricketliveline.livecricketscore",
+  "SPLASH_TIME": 4,
   "ADS_BTN_COLOR_FLAG": false,
   "ADS_BTN_COLOR": "#370B4A",
   "IS_TIMER": true,
