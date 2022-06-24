@@ -9,6 +9,7 @@
   "ads_server_time":30,
   "ads_preload":true,
   "ads_onback":true,
+  "show_ad_first_page":true,
   "is_apps_ad_show":true,
   "ads_priority":"facebook",
   "privacy_url":"https://www.flaticon.com/",
