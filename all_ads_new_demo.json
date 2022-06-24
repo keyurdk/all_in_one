@@ -31,16 +31,16 @@
     "adx_reward_video":"/6499/example/rewarded"
   },
   "facebook":{
-    "facebook_banner":"/6499/example/app-open",
-    "facebook_interstitial":"/6499/example/banner",
-    "facebook_native":"/6499/example/interstitial",
-    "facebook_native_banner":"/6499/example/native"
+    "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "app_lovin":{
-    "app_lovin_banner":"https://tetapose.com/tnart.in/Banner/",
-    "app_lovin_interstitial":"8",
-    "app_lovin_native":"https://tetapose.com/tnart.in/Icon/",
-    "app_lovin_native_banner":"https://tetapose.com/tnart.in/Icon/"
+    "app_lovin_banner":"aa",
+    "app_lovin_interstitial":"aa",
+    "app_lovin_native":"aa",
+    "app_lovin_native_banner":"aa"
   },
   "apps":{
     "apps_banner":"https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
