@@ -12,7 +12,7 @@
   "ADS_ONBACK": true,
   "SHOW_AD_FIRST_PAGE": true,
   "IS_APPS_AD_SHOW": true,
-  "ADS_PRIORITY": "facebook",
+  "ADS_PRIORITY": "applovin",
   "PRIVACY_URL": "https://www.flaticon.com/",
   "Admob": {
     "ADMOB_APP_OPEN": "ca-app-pub-3940256099942544/3419835294",
