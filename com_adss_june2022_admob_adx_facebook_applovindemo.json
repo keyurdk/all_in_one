@@ -2,7 +2,6 @@
   "APP_PACKAGE": "ads.demo.fb.google",
   "IS_APP_LIVE": true,
   "APP_REDIRECT_LINK": "com.cricket.live.score.cricketliveline.livecricketscore",
-  "SPLASH_TIME": 4,
   "ADS_BTN_COLOR_FLAG": false,
   "ADS_BTN_COLOR": "#370B4A",
   "IS_TIMER": true,
@@ -12,7 +11,9 @@
   "ADS_ONBACK": true,
   "SHOW_AD_FIRST_PAGE": true,
   "IS_APPS_AD_SHOW": true,
-  "ADS_PRIORITY": "google",
+  "IS_SHOW_GOOGLE": true,
+  "IS_SHOW_FACEBOOK": false,
+  "IS_SHOW_APPLOVIN": false,
   "PRIVACY_URL": "https://www.flaticon.com/",
   "Admob": {
     "ADMOB_APP_OPEN": "ca-app-pub-3940256099942544/3419835294",
