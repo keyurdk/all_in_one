@@ -8,7 +8,7 @@
   "IS_TIMER": true,
   "ADS_SERVER_CLICK": 3,
   "ADS_SERVER_TIME": 30,
-  "ADS_PRELOAD": true,
+  "ADS_PRELOAD": false,
   "ADS_ONBACK": true,
   "SHOW_AD_FIRST_PAGE": true,
   "IS_APPS_AD_SHOW": true,
