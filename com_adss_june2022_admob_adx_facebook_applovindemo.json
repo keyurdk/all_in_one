@@ -39,10 +39,11 @@
     "FACEBOOK_NATIVE_BANNER": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "Applovin": {
-    "APPLOVIN_BANNER": "https://tetapose.com/tnart.in/Banner/",
-    "APPLOVIN_INTERSTITIAL": "8",
-    "APPLOVIN_NATIVE": "https://tetapose.com/tnart.in/Icon/",
-    "APPLOVIN_NATIVE_BANNER": "https://tetapose.com/tnart.in/Icon/"
+    "APPLOVIN_BANNER": "61fdd7cf93e13cad",
+    "APPLOVIN_INTERSTITIAL": "2a90c53d0502d3b4",
+    "APPLOVIN_NATIVE": "e85377c761ec235c",
+    "APPLOVIN_NATIVE_BANNER": "e85377c761ec235c",
+    "APPLOVIN_NATIVE_MREC": "c5758834559f203b"
   },
   "Apps": {
     "APPS_BANNER": "https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
