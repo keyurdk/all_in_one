@@ -11,6 +11,7 @@
   "ADS_ONBACK": true,
   "SHOW_AD_FIRST_PAGE": true,
   "IS_APPS_AD_SHOW": false,
+  "SHOW_NATIVE_BOTTOM": true,
   "ADS_PRIORITY": "fga",
   "PRIVACY_URL": "https://www.flaticon.com/",
   "Admob": {
