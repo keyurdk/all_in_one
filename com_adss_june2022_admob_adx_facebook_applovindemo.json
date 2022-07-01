@@ -1,55 +1,51 @@
 {
-  "APP_PACKAGE": "ads.demo.fb.google",
-  "IS_APP_LIVE": true,
-  "APP_REDIRECT_LINK": "com.cricket.live.score.cricketliveline.livecricketscore",
-  "ADS_BTN_COLOR_FLAG": false,
-  "ADS_BTN_COLOR": "#370B4A",
-  "IS_TIMER": false,
-  "ADS_SERVER_CLICK": 3,
-  "ADS_SERVER_TIME": 10,
-  "ADS_PRELOAD": true,
-  "ADS_ONBACK": true,
-  "SHOW_AD_FIRST_PAGE": true,
-  "IS_APPS_AD_SHOW": false,
-  "SHOW_NATIVE_BOTTOM": true,
-  "ADS_PRIORITY": "fga",
-  "PRIVACY_URL": "https://www.flaticon.com/",
+  "app_package": "ads.demo.fb.google",
+  "is_app_live": true,
+  "app_redirect_link": "com.cricket.live.score.cricketliveline.livecricketscore",
+  "btn_color_flag": false,
+  "btn_color": "#370B4A",
+  "is_timer": false,
+  "ads_click": 3,
+  "ads_time": 10,
+  "ads_preload": false,
+  "ads_onback": true,
+  "show_ad_first_page": true,
+  "is_apps_ad_show": false,
+  "show_native_bottom": true,
+  "show_splash_interstitial": true,
+  "ads_priority": "gfa",
+  "privacy_url": "https://www.flaticon.com/",
   "Admob": {
-    "ADMOB_APP_OPEN": "ca-app-pub-3940256099942544/3419835294",
-    "ADMOB_BANNER": "xxca-app-pub-3940256099942544/9214589741",
-    "ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
-    "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
-    "ADMOB_NATIVE_BANNER": "ca-app-pub-3940256099942544/2247696110",
-    "ADMOB_REWARD_INTERSTITIAL": "xxca-app-pub-3940256099942544/5354046379",
-    "ADMOB_REWARD_VIDEO": "xxca-app-pub-3940256099942544/5354046379"
+    "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_banner": "xxca-app-pub-3940256099942544/9214589741",
+    "admob_interstitial": "xxca-app-pub-3940256099942544/1033173712",
+    "admob_native": "xxca-app-pub-3940256099942544/2247696110",
+    "admob_native_banner": "xxca-app-pub-3940256099942544/2247696110"
   },
   "Adx": {
-    "ADX_APP_OPEN": "/6499/example/app-open",
-    "ADX_BANNER": "xx/6499/example/banner",
-    "ADX_INTERSTITIAL": "/6499/example/interstitial",
-    "ADX_NATIVE": "/6499/example/native",
-    "ADX_NATIVE_BANNER": "/6499/example/native",
-    "ADX_REWARD_INTERSTITIAL": "xx/21775744923/example/rewarded_interstitial",
-    "ADX_REWARD_VIDEO": "xx/6499/example/rewarded"
+    "adx_app_open": "/6499/example/app-open",
+    "adx_banner": "xx/6499/example/banner",
+    "adx_interstitial": "xx/6499/example/interstitial",
+    "adx_native": "xx/6499/example/native",
+    "adx_native_banner": "xx/6499/example/native"
   },
   "Facebook": {
-    "FACEBOOK_BANNER": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "FACEBOOK_INTERSTITIAL": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "FACEBOOK_NATIVE": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "FACEBOOK_NATIVE_BANNER": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "Applovin": {
-    "APPLOVIN_BANNER": "61fdd7cf93e13cad",
-    "APPLOVIN_INTERSTITIAL": "2a90c53d0502d3b4",
-    "APPLOVIN_NATIVE": "9b007e7d5cc333b9",
-    "APPLOVIN_NATIVE_BANNER": "9b007e7d5cc333b9",
-    "APPLOVIN_NATIVE_MREC": "c5758834559f203b"
+    "app_lovin_banner": "61fdd7cf93e13cad",
+    "app_lovin_interstitial": "2a90c53d0502d3b4",
+    "app_lovin_native": "xx9b007e7d5cc333b9",
+    "app_lovin_native_banner": "xx9b007e7d5cc333b9"
   },
   "Apps": {
-    "APPS_BANNER": "https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
-    "APPS_BODY": "Random video chat with strangers, meet Omegle people & live talk to make friends",
-    "APPS_HEADLINE": "Random Video Chat: Talk Live",
-    "APPS_ICON": "https://play-lh.googleusercontent.com/6jAmlgblv_YnGPW4gy4pNR4rHrBBr4XHoa26knE35g7OFlfOcNnZqU9GLKoLjz7PsOw=s180-rw",
-    "APPS_LINK": "https://play.google.com/store/apps/details?id=com.randomvideochat.livevideochat.randomvideocall.randomchat"
+    "apps_banner": "https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
+    "apps_body": "Random video chat with strangers, meet Omegle people & live talk to make friends",
+    "apps_headline": "Random Video Chat: Talk Live",
+    "apps_icon": "https://play-lh.googleusercontent.com/6jAmlgblv_YnGPW4gy4pNR4rHrBBr4XHoa26knE35g7OFlfOcNnZqU9GLKoLjz7PsOw=s180-rw",
+    "apps_link": "https://play.google.com/store/apps/details?id=com.randomvideochat.livevideochat.randomvideocall.randomchat"
   }
 }
