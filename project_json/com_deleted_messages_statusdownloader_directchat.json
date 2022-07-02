@@ -1,0 +1,51 @@
+{
+  "app_package": "ads.demo.fb.google",
+  "is_app_live": true,
+  "app_redirect_link": "com.cricket.live.score.cricketliveline.livecricketscore",
+  "btn_color_flag": false,
+  "btn_color": "#370B4A",
+  "is_timer": false,
+  "ads_click": 3,
+  "ads_time": 10,
+  "ads_preload": false,
+  "ads_onback": true,
+  "show_ad_first_page": true,
+  "is_apps_ad_show": false,
+  "show_native_bottom": true,
+  "show_splash_interstitial": true,
+  "ads_priority": "gfa",
+  "privacy_url": "https://www.flaticon.com/",
+  "Admob": {
+    "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_banner": "xxca-app-pub-3940256099942544/9214589741",
+    "admob_interstitial": "xxca-app-pub-3940256099942544/1033173712",
+    "admob_native": "xxca-app-pub-3940256099942544/2247696110",
+    "admob_native_banner": "xxca-app-pub-3940256099942544/2247696110"
+  },
+  "Adx": {
+    "adx_app_open": "/6499/example/app-open",
+    "adx_banner": "xx/6499/example/banner",
+    "adx_interstitial": "xx/6499/example/interstitial",
+    "adx_native": "xx/6499/example/native",
+    "adx_native_banner": "xx/6499/example/native"
+  },
+  "Facebook": {
+    "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "Applovin": {
+    "app_lovin_banner": "61fdd7cf93e13cad",
+    "app_lovin_interstitial": "2a90c53d0502d3b4",
+    "app_lovin_native": "xx9b007e7d5cc333b9",
+    "app_lovin_native_banner": "xx9b007e7d5cc333b9"
+  },
+  "Apps": {
+    "apps_banner": "https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
+    "apps_body": "Random video chat with strangers, meet Omegle people & live talk to make friends",
+    "apps_headline": "Random Video Chat: Talk Live",
+    "apps_icon": "https://play-lh.googleusercontent.com/6jAmlgblv_YnGPW4gy4pNR4rHrBBr4XHoa26knE35g7OFlfOcNnZqU9GLKoLjz7PsOw=s180-rw",
+    "apps_link": "https://play.google.com/store/apps/details?id=com.randomvideochat.livevideochat.randomvideocall.randomchat"
+  }
+}
