@@ -1,6 +1,6 @@
 {
   "app_package": "ads.demo.fb.google",
-  "is_app_live": false,
+  "is_app_live": true,
   "app_redirect_link": "com.cricket.live.score.cricketliveline.livecricketscore",
   "btn_color_flag": false,
   "btn_color": "#370B4A",
