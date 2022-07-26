@@ -1,0 +1,92 @@
+[
+  {
+    "site_title" : "Google",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png",
+    "site_url" : "https://www.google.co.in/"
+  },
+  {
+    "site_title" : "Facebook",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/124/124010.png",
+    "site_url" : "https://www.facebook.com"
+  },
+  {
+    "site_title" : "Flaticon",
+    "icon_url" : "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5a5ce9469cd708a59b4dda07a7f06399/flaticon.jpg",
+    "site_url" : "https://www.flaticon.com/"
+  },
+  {
+    "site_title" : "Instagram",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
+    "site_url" : "https://www.instagram.com/"
+  },
+  {
+    "site_title" : "Dream11",
+    "icon_url" : "https://etimg.etb2bimg.com/photo/63326630.cms",
+    "site_url" : "https://www.dream11.com/en-US"
+  },
+  {
+    "site_title" : "Twitter",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/124/124021.png",
+    "site_url" : "https://twitter.com/login"
+  },
+  {
+    "site_title" : "Youtube",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "site_url" : "https://www.youtube.com/"
+  },
+  {
+    "site_title" : "Yahoo",
+    "icon_url" : "https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png",
+    "site_url" : "https://in.search.yahoo.com/?fr2=inr"
+  },
+  {
+    "site_title" : "Whatsapp",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/478px-WhatsApp.svg.png",
+    "site_url" : "https://www.whatsapp.com/"
+  },
+  {
+    "site_title" : "Google",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png",
+    "site_url" : "https://www.google.co.in/"
+  },
+  {
+    "site_title" : "Facebook",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/124/124010.png",
+    "site_url" : "https://www.facebook.com"
+  },
+  {
+    "site_title" : "Flaticon",
+    "icon_url" : "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5a5ce9469cd708a59b4dda07a7f06399/flaticon.jpg",
+    "site_url" : "https://www.flaticon.com/"
+  },
+  {
+    "site_title" : "Instagram",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
+    "site_url" : "https://www.instagram.com/"
+  },
+  {
+    "site_title" : "Dream11",
+    "icon_url" : "https://etimg.etb2bimg.com/photo/63326630.cms",
+    "site_url" : "https://www.dream11.com/en-US"
+  },
+  {
+    "site_title" : "Twitter",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/124/124021.png",
+    "site_url" : "https://twitter.com/login"
+  },
+  {
+    "site_title" : "Youtube",
+    "icon_url" : "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "site_url" : "https://www.youtube.com/"
+  },
+  {
+    "site_title" : "Yahoo",
+    "icon_url" : "https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png",
+    "site_url" : "https://in.search.yahoo.com/?fr2=inr"
+  },
+  {
+    "site_title" : "Whatsapp",
+    "icon_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/478px-WhatsApp.svg.png",
+    "site_url" : "https://www.whatsapp.com/"
+  }
+]
