@@ -12,7 +12,7 @@
   "show_ad_first_page": true,
   "is_apps_ad_show": false,
   "show_native_bottom": true,
-  "show_splash_interstitial": true,
+  "show_splash_interstitial": false,
   "ads_priority": "f",
   "privacy_url": "https://www.flaticon.com/",
   "Admob": {
