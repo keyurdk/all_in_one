@@ -31,9 +31,9 @@
   },
   "Facebook": {
     "facebook_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "facebook_interstitial": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "facebook_native": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "facebook_native_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "Applovin": {
     "app_lovin_banner": "61fdd7cf93e13cad",
