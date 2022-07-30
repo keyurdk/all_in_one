@@ -15,7 +15,7 @@
   "show_splash_interstitial": false,
   "ads_priority": "g",
   "privacy_url": "https://www.flaticon.com/",
-  "privacy_des": "This application uses a unique user identifier for advertising purposes, it is shared with third-party companies.\n\nThis application sends error reports, installation and send it to a server of the Fabric.io company to analyze and process it.\n\nThis application requires internet access and must collect the following information: Installed applications and history of installed applications, ip address, unique installation id, token to send notifications, version of the application, time zone and information about the language of the device.\n\nAll details about the use of data are available in our Privacy Policies, as well as all Terms of Service links below.\n\nIf you click on Accept, you acknowledge that is makes the content present and all the content of our <a href="https://www.google.com">Tearm of Services</a> and implies that you have read our <a href="https://www.google.com">Privacy Policy</a>.\n",
+  "privacy_des": "This application uses a unique user identifier for advertising purposes, it is shared with third-party companies",
   "Admob": {
     "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
     "admob_banner": "xxca-app-pub-3940256099942544/9214589741",
