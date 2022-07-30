@@ -1,0 +1,57 @@
+{
+  "app_package": "ads.demo.fb.google",
+  "is_app_live": true,
+  "app_redirect_link": "com.cricket.live.score.cricketliveline.livecricketscore",
+  "btn_color_flag": false,
+  "btn_color": "#370B4A",
+  "is_timer": false,
+  "ads_click": 3,
+  "ads_time": 10,
+  "ads_preload": false,
+  "ads_onback": true,
+  "show_ad_first_page": true,
+  "is_apps_ad_show": false,
+  "show_native_bottom": true,
+  "show_splash_interstitial": false,
+  "ads_priority": "gf",
+  "privacy_url": "https://www.flaticon.com/",
+  "privacy_des": "This application uses a unique user identifier for advertising purposes, it is shared with third-party companies.\n\nThis application sends error reports, installation and send it to a server of the Fabric.io company to analyze and process it.\n\nThis application requires internet access and must collect the following information: Installed applications and history of installed applications, ip address, unique installation id, token to send notifications, version of the application, time zone and information about the language of the device.\n\nAll details about the use of data are available in our Privacy Policies, as well as all Terms of Service links below.\n\nIf you click on Accept, you acknowledge that is makes the content present and all the content of our <a href="https://www.google.com">Tearm of Services</a> and implies that you have read our <a href="https://www.google.com">Privacy Policy</a>.\n",
+  "Admob": {
+    "admob_app_open": "xxca-app-pub-3940256099942544/3419835294",
+    "admob_banner": "xxca-app-pub-3940256099942544/9214589741",
+    "admob_interstitial": "xxca-app-pub-3940256099942544/1033173712",
+    "admob_native": "xxca-app-pub-3940256099942544/2247696110",
+    "admob_native_banner": "xxca-app-pub-3940256099942544/2247696110"
+  },
+  "Adx": {
+    "adx_app_open": "xx/6499/example/app-open",
+    "adx_banner": "xx/6499/example/banner",
+    "adx_interstitial": "xx/6499/example/interstitial",
+    "adx_native": "xx/6499/example/native",
+    "adx_native_banner": "xx/6499/example/native"
+  },
+  "Facebook": {
+    "facebook_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_interstitial": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "Applovin": {
+    "app_lovin_banner": "xx61fdd7cf93e13cad",
+    "app_lovin_interstitial": "xx2a90c53d0502d3b4",
+    "app_lovin_native": "xx9b007e7d5cc333b9",
+    "app_lovin_native_banner": "xx9b007e7d5cc333b9"
+  },
+  "Apps": {
+    "apps_banner": "https://play-lh.googleusercontent.com/jAF_Sn_vp8Jvsoj5qEX4OCEZ6cZKLG-jJN7KieBA6t7OiMScvBA9vsxAUu_jOYg7pQ",
+    "apps_body": "Random video chat with strangers, meet Omegle people & live talk to make friends",
+    "apps_headline": "Random Video Chat: Talk Live",
+    "apps_icon": "https://play-lh.googleusercontent.com/6jAmlgblv_YnGPW4gy4pNR4rHrBBr4XHoa26knE35g7OFlfOcNnZqU9GLKoLjz7PsOw=s180-rw",
+    "apps_link": "https://play.google.com/store/apps/details?id=com.randomvideochat.livevideochat.randomvideocall.randomchat"
+  },
+  "Server":{
+      "server_network":true,
+      "server_name":"in,ca",
+      "server_link":"https://tetadata.xyz/vpn_service/vpn_service.json"
+  }
+}
