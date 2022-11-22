@@ -51,6 +51,6 @@
     "Server":{
         "server_network":true,
         "server_name":"in,ca",
-        "server_link":"https://tetadata.xyz/vpn_service/vpn_service.json"
+        "server_link":"https://tetadata.xyz/ads_key/vpn_service/server_link_pro.json"
     }
 }
